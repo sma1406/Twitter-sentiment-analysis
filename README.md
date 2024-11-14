@@ -27,11 +27,13 @@ Méthodologie
         Interprétation: Analyse des résultats pour comprendre les forces et les limites du modèle.
 
 Conclusion
-En conclusion, ce projet démontre la pertinence de l'analyse de sentiments pour comprendre les opinions exprimées sur les réseaux sociaux. Le modèle de régression logistique mis en place offre une base solide pour de nombreuses applications, telles que la surveillance de la réputation en ligne, l'analyse de l'opinion publique et le développement de produits plus adaptés aux attentes des consommateurs.
+
+    En conclusion, ce projet démontre la pertinence de l'analyse de sentiments pour comprendre les opinions exprimées sur les réseaux sociaux. Le modèle de régression logistique mis en place offre une base solide pour de nombreuses applications, telles que la surveillance de la réputation en ligne, l'analyse de l'opinion publique et le développement de produits plus adaptés aux attentes des consommateurs.
 
 Perspective 
-Bien que les résultats soient encourageants, il est important de noter que l'analyse de sentiments reste un domaine de recherche actif. Les modèles actuels ont encore des difficultés à capturer la complexité du langage naturel, notamment l'ironie, le sarcasme et les nuances sémantiques.
-Certaines améliorations peuvent être apportées pour augmenter les performances, notamment en explorant :
+
+    Bien que les résultats soient encourageants, il est important de noter que l'analyse de sentiments reste un domaine de recherche actif. Les modèles actuels ont encore des difficultés à capturer la complexité du langage naturel, notamment l'ironie, le sarcasme et les nuances sémantiques.
+    Certaines améliorations peuvent être apportées pour augmenter les performances, notamment en explorant :
 
     D'autres modèles: SVM, Naive Bayes, réseaux de neurones.
     Des techniques de deep learning: Word Embeddings, modèles séquentiels.
